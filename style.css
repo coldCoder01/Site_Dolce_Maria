@@ -93,6 +93,11 @@ p {
     color:  rgba(80, 18, 28);
 }
 
+.logotipo {
+    height: 90px;
+    margin-left: 110px;
+}
+
 section h2 {
     font-family: 'Dancing Script', cursive;
     font-size: 30px;
